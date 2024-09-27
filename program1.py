@@ -1,6 +1,3 @@
-
-
-
 # Solution class defining the isValid method
 import unittest
 class Solution:
@@ -29,14 +26,4 @@ class Solution:
 
 # Unit test code
 
-
-
-
-
-
-    
-
-
-
-  
 
